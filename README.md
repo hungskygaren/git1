@@ -1,7 +1,7 @@
-Giới thiệu tổng quát
-Front dùng Angular
-Back dùng nestJs
-Database dùng PostgresSQL
+Giới thiệu tổng quát.  
+Front dùng Angular  
+Back dùng nestJs  
+Database dùng PostgresSQL  
 dùng figma trình chiếu sơ qua giao diện
 Sử dụng Angular vì được tập trung nhiều hơn về mô-đun và cấu trúc thư mục rất rất tốt.
 Sử dụng NestJS là bởi vì, cả Angular NestJS đang sử dụng TypeScript, nó hiện đang rất phổ biến.
